@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 #generates a .tgz archive from the contents of the web_static folder
-"Generates a .tgz"
 
 import tarfile
 import os
